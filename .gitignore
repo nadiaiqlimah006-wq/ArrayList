@@ -7,6 +7,12 @@
 # BlueJ files
 *.ctxt
 
+# NetBeans project files
+nbproject/private/
+build/
+dist/
+nbbuild/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
